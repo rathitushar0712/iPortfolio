@@ -1,0 +1,247 @@
+{
+	"basics": {
+		"name": "Isha Potnis",
+		"label": "Web Developer",
+		"picture": "",
+		"email": "potnisisha1@gmail.com",
+		"phone": "(443) 515-7351",
+		"website": "ishapotnis.strikingly.com",
+		"summary": "",
+		"location": {
+			"address": "2374, Rolling fork circle",
+			"postalCode": "VA 20171",
+			"city": "Herndon",
+			"countryCode": "US",
+			"region": "Virginia"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "isha-potnis",
+				"url": "http://www.linkedin.com/in/isha-potnis"
+			},
+			{
+				"network": "Github",
+				"username": "ishapotnis1",
+				"url": "http://www.github.com/ishapotnis1"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Comscore Inc., Reston,VA",
+			"position": "Software Engineer",
+			"website": "https://www.comscore.com/",
+			"startDate": "2018-07-30",
+			"endDate": "2019-05-02",
+			"summary": "Built and analysed data collection codes, tools and testing frameworks for Comscore’s campaign measurement product, dealing with millions of records(Javascript, reactJS, Python, postgreSQL, Charles, Pig). Researched and documented the new trends in media industry and their effect on the Comscore products.",
+			"highlights": []
+		},
+		{
+			"company": "Proticy, LLC, Maryland, USA",
+			"position": "Full Stack development Intern",
+			"website": "http://proticy.com/",
+			"startDate": "2017-05-01",
+			"endDate": "2017-05-15",
+			"summary": "Developed a prototype for the startup phase of Learning management system using  MEAN  (MongoDB,  Express.js, AngularJS, Node.js) Stack with HTML, CSS and supervised it till beta - testing phase with 75% success rate.",
+			"highlights": [""]
+		},
+		{
+			"company": "Interactive Robotics and Language Lab, UMBC, MD",
+			"position": "Research Assistant",
+			"website": "http://iral.cs.umbc.edu/",
+			"startDate": "2017-05-01",
+			"endDate": "2018-05-30",
+			"summary": "Developed an architecture for model transfer of grounded language between robots with heterogeneous sensors with minimal loss of accuracy in the knowledge transfer. (Python, ML)",
+			"highlights": [""]
+		},
+		{
+			"company": "Globant Services, Pune, India",
+			"position": "Associate Software Engineer",
+			"website": "https://www.globant.com/",
+			"startDate": "2015-07-22",
+			"endDate": "2016-06-15",
+			"summary": "Designed interface for a client-based network auto configuration project in backbone.js frameworks.",
+			"highlights": [""]
+		}
+	],
+	"volunteer": [
+		{
+			"organization": " Spotzot India PVT LTD, Pune, India",
+			"position": "Project Intern",
+			"website": "",
+			"startDate": "2014-08-01",
+			"endDate": "2015-05-30",
+			"summary": "Implemented an architecture in Java to process and query real time data (about 8000 requests/second). The aggregated answers to ad hoc queries displayed on varied time granularities from 10 sec to 1 day. Simulator generated 15000 unique requests per second. (Java, Apache Spark, Apache Zookeeper, Apache Kafka, Redis, Scala)",
+			"highlights": [""]
+		}
+	],
+	"projects": [
+		{
+			"name": "Feedback Collection system ",
+			"summary": "Implemented an end-to-end feedback collection system with google OAuth signin  and Stripe API calls payments on Heroku.",
+			"technologies": "HTML, CSS, MongoDB, Node.js, React, Express, passportJS, npm, GitHub, webpack"
+		},
+		{
+			"name": "Personal YouTube Player ",
+			"summary": "Built a web application using Google Developer APIs as a replacement for the traditional YouTube allowing faster video searches and a more personalized layout.",
+			"technologies": "JavaScript, React JS, HTML, CSS, npm, GitHub, webpack"
+		},
+		{
+			"name": "MyIdeaApp",
+			"summary": " Created an app that where you can add an idea, edit it and track its progress.",
+			"technologies": "Rails 5 API, React"
+		},
+		{
+			"name": "Airline Reservation System",
+			"summary": "Simulated a reservation system managing around 10000 records with 4NF normalized schema, encryption, data backup (increased system security by 60%) using relational databases.",
+			"technologies": "Bootstrap and MySQL"
+		},
+		{
+			"name": "Reader’s digest",
+			"summary": "Constructed  a  book recommendation system using Apache framework and machine learning technologies to personalize  user’s reading experience.",
+			"technologies": "HTML,  CSS,  Apache  Spark,  Flume,  Spark  SQL,  Hadoop,  HBase,  Pig,  Hive"
+		},
+		{
+			"name": "Simulated Weighted PageRank Analysis ",
+			"summary": "Simulated a variation of the Google’s PageRank algorithm in Java for ranking pages based on factors such as page popularity, content, history and domain.",
+			"technologies": "Java"
+		},
+		{
+			"name": "Bidbot vs Humans ",
+			"summary": "Devised a Prediction engine to check if bidders are humans or bid bots with 92.7% accuracy.",
+			"technologies": "Java"
+		},
+		{
+			"name": "New Eleusis",
+			"summary": "Implemented a card game aimed to identify a card-throwing rule set forth by dealer with an accuracy of over 82%.",
+			"technologies": "Python"
+		}
+	],
+	"education": [
+		{
+			"institution": "University of Maryland, Baltimore County, MD, USA",
+			"area": "Computer Science",
+			"studyType": "MaMaster of Science",
+			"startDate": "2016-08-18",
+			"endDate": "2018-05-30",
+			"gpa": "3.77",
+			"courses": [
+				"Algorithms",
+				"Advanced Database",
+				"Machine Learning",
+				"Computer Architecture",
+				"Advanced Data Structures"
+			]
+		},
+		{
+			"institution": "Pune Institute of Computer Technology, University of Pune, India",
+			"area": "Computer Science",
+			"studyType": "Bachelor of Engineering",
+			"startDate": "2011-08-22",
+			"endDate": "2015-05-30",
+			"gpa": "3.87",
+			"courses": [
+				"Software Development and Quality Assurance",
+				"Advanced Computer Networks"
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Runner up for the Hackathon",
+			"date": "2019-02-10",
+			"awarder": "Comscore Inc., Reston, VA",
+			"summary": ""
+		},
+		{
+			"title": "Appreciation award for Increasing the efficiency of code",
+			"date": "2019-03-15",
+			"awarder": "Comscore Inc., Reston, VA",
+			"summary": ""
+		}
+	],
+	"publications": [
+		{
+			"name": "",
+			"publisher": "",
+			"releaseDate": "",
+			"website": "",
+			"summary": ""
+		}
+	],
+	"skills": [
+		{
+			"languages": [
+				"JavaScript",
+				"Java",
+				"Python",
+				"HTML",
+				"CSS",
+				"C",
+				"Pig",
+				"Scala"
+			]
+		},
+		{
+			"frameworks": [
+				"React",
+				"AngularJS",
+				"jQuery",
+				"Node.js",
+				"Express.js",
+				"Bootstrap",
+				"Backbone.JS",
+				"WordPress"
+			]
+		},
+		{
+			"tools": [
+				"Eclipse",
+				"NetBeans",
+				"IntelliJ IDEA",
+				"Python idle",
+				"MATLAB",
+				"Apache Hadoop"
+			]
+		},
+		{
+			"vsc": ["Git", "Bitbucket"]
+		},
+		{
+			"databases": ["Oracle 10G", "MySQL", "MongoDB", "Redis", "postgreSQL"]
+		},
+		{
+			"technicalConcepts": [
+				"Agile Methodologies",
+				"SDLC",
+				"Requirement Gathering SOA",
+				"Web APIs"
+			]
+		}
+	],
+	"certificates": [
+		{
+			"area": "Web developement",
+			"name": "The Complete Web Developer Course 2.0 - Udemy"
+		}
+	],
+	"languages": [
+		{
+			"language": "",
+			"fluency": ""
+		}
+	],
+	"interests": [
+		{
+			"name": "",
+			"keywords": []
+		}
+	],
+	"references": [
+		{
+			"name": "",
+			"reference": ""
+		}
+	]
+}
